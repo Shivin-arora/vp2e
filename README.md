@@ -1,1 +1,2 @@
-# vp2e
+# Virtual pet
+Virtual pet project
